@@ -107,7 +107,7 @@ int main(void){
 		printf("\n");
 		}
 		
-	}while(mov != 'Q'); 
+	}while(mov != 'Q');
 
 	return (0);
 }
